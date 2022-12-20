@@ -1,0 +1,1 @@
+run command  tsc --watch to watch the changes and node ./public/filename.js to execute and see the changes
